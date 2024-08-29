@@ -65,7 +65,7 @@ This project involves extracting, analyzing, and visualizing sales data against 
 
 ## Demo
 
-- **Link:** [Project Demo](https://docs.google.com/presentation/d/1dqD3Lg4Ua3NZRFbd5bJfocIBE-xpCIB4/edit?usp=sharing&ouid=100701916007041663694&rtpof=true&sd=true)
+- **Link:** [Project Demo](https://docs.google.com/presentation/d/1qkgx71My_xS23SydFeLnlhivCZnyRTELbqHOxf9hd9I/pub?start=true&loop=true&delayms=3000)
 
 ## License
 
